@@ -1,0 +1,3 @@
+Hellinger distances:
+	UGT: 0.0
+	UGTWH: 0.23243072000612824
